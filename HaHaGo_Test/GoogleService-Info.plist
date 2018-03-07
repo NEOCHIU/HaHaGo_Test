@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>952112365352-7d28mt376gr4fmve7oa630vf6r70pl49.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.952112365352-7d28mt376gr4fmve7oa630vf6r70pl49</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDHLNOxmlGuwIXi3z9slVnz1oL-2TX6qh8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>952112365352</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>tw.com.iscom.HaHaGo-Test</string>
+	<key>PROJECT_ID</key>
+	<string>hahago-test</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hahago-test.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:952112365352:ios:2a76e6d6bb2f96fc</string>
+	<key>DATABASE_URL</key>
+	<string>https://hahago-test.firebaseio.com</string>
+</dict>
+</plist>
